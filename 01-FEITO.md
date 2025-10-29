@@ -8,45 +8,16 @@ Este arquivo rastreia todos os projetos open-source que já explorei, forks real
 
 ## Projetos Explorados
 
-### 1. Lista Maravilhosa Open Source
-- **Link**: https://github.com/camilatigre/listamaravilhosaopensource
-- **Data de exploração**: October 2025
-- **O que foi feito**: Analise de repositório e documentação de projetos open-source para iniciantes
-- **Status**: ✅ Explorado
+* [Lista Maravilhosa Open Source] - Analise - Iniciante - Analise de repositório e documentação de projetos open-source para iniciantes - https://github.com/camilatigre/listamaravilhosaopensource
 
 ---
 
 ## Forks Realizados
 
-- [ ] Adicionar forks aqui quando criados
+* [Nome do Repositório] - [Tipo] - [Dificuldade] - [Descrição] - [URL]
 
 ---
 
 ## Pull Requests Aceitos/Mergeados
 
-- [ ] Adicionar PRs aceitos aqui
-
----
-
-## Contribuições de Documentação
-
-- [ ] Adicionar contribuições de docs aqui
-
----
-
-## Problemas (Issues) Reportados/Resolvidos
-
-- [ ] Adicionar issues aqui
-
----
-
-## Aprendizados Adquiridos
-
-1. Como navegar repositórios open-source
-2. Entender a estrutura de projetos colaborativos
-3. Como fazer fork e criar branches
-4. Como escrever boas mensagens de commit
-
----
-
-**Última atualização**: October 29, 2025
+* [Nome do Repositório] - [Tipo de PR] - [Dificuldade] - [Descrição] - [URL do PR]
