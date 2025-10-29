@@ -21,7 +21,7 @@ Este repositório é um painel organizacional para rastrear meu progresso em con
 ## 🔄 Fazendo Agora
 
 <!-- START_FAZENDO -->
-
+* [Nome do Repositório] - Bug / Feature / Documentation - [Dificuldade] - [Descrição] - [URL da Issue]
 <!-- END_FAZENDO -->
 
 ---
@@ -34,4 +34,4 @@ Este repositório é um painel organizacional para rastrear meu progresso em con
 
 ---
 
-*Última atualização: 2025-10-29 14:03:49 *
+*Última atualização: 2025-10-29 14:04:32 *
